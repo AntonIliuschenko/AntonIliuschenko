@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Anton 👋
 
-<!--
-**AntonIliuschenko/AntonIliuschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast with experience in infrastructure monitoring and Zabbix administration.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Zabbix
+- Linux
+- Infrastructure Monitoring
+- Security Systems
+- Bash scripting
+- Networking
+
+## 🚀 Currently learning
+
+- Docker
+- CI/CD
+- Infrastructure automation
+- DevOps practices
+
+## 📂 Projects
+
+- Zabbix monitoring scripts
+- Infrastructure monitoring tools
+- Automation scripts
+
+## 📫 Contact
+
+Email: antonioum80@gmail.com
