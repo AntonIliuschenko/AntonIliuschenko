@@ -3,6 +3,11 @@
 DevOps enthusiast with experience in infrastructure monitoring, Zabbix administration and Linux systems.
 
 ## 🔧 Core Skills
+![Linux](https://img.shields.io/badge/Linux-admin-blue)
+![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
+![DevOps](https://img.shields.io/badge/DevOps-learning-orange)
+![Bash](https://img.shields.io/badge/Bash-scripting-green)
+![Git](https://img.shields.io/badge/Git-version--control-black)
 
 - Zabbix
 - Linux administration
