@@ -1,28 +1,39 @@
-# Hi, I'm Anton 👋
+# Hi, I'm Anton Iliuschenko 👋
 
-DevOps enthusiast with experience in infrastructure monitoring and Zabbix administration.
+DevOps enthusiast with experience in infrastructure monitoring, Zabbix administration and Linux systems.
 
-## 🔧 Skills
+## 🔧 Core Skills
 
 - Zabbix
-- Linux
-- Infrastructure Monitoring
-- Security Systems
+- Linux administration
+- Infrastructure monitoring
+- Security systems
 - Bash scripting
-- Networking
+- Networking fundamentals
 
-## 🚀 Currently learning
+## 🚀 Currently Learning
 
 - Docker
-- CI/CD
+- CI/CD pipelines
 - Infrastructure automation
 - DevOps practices
+
+## 📊 Areas of Interest
+
+- Monitoring & Observability
+- Infrastructure reliability
+- Automation
+- DevOps tools and workflows
 
 ## 📂 Projects
 
 - Zabbix monitoring scripts
-- Infrastructure monitoring tools
-- Automation scripts
+- Infrastructure monitoring automation
+- Linux administration utilities
+
+## 🛠 Tools
+
+Linux • Zabbix • Bash • Git • Networking
 
 ## 📫 Contact
 
