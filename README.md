@@ -22,6 +22,8 @@ DevOps enthusiast with experience in infrastructure monitoring, Zabbix administr
 - CI/CD pipelines
 - Infrastructure automation
 - DevOps practices
+- Infrastructure as Code
+- Kubernetes
 
 ## 📊 Areas of Interest
 
@@ -36,6 +38,21 @@ DevOps enthusiast with experience in infrastructure monitoring, Zabbix administr
 - Infrastructure monitoring automation
 - Linux administration utilities
 
+🔹 DevOps Learning
+
+Notes and commands I learn every day
+👉 https://github.com/YOUR_USERNAME/devops-learning
+
+🔹 DevOps Labs
+
+Hands-on labs and scripts
+👉 https://github.com/YOUR_USERNAME/devops-labs
+
+🔹 Linux Scripts
+
+Automation scripts
+👉 https://github.com/YOUR_USERNAME/linux-scripts
+
 ## 🛠 Tools
 
 Linux • Zabbix • Bash • Git • Networking
@@ -43,3 +60,5 @@ Linux • Zabbix • Bash • Git • Networking
 ## 📫 Contact
 
 Email: antonioum80@gmail.com
+Telegram: @AntonIliushchenko
+(https://t.me/AntonIliushchenko)
