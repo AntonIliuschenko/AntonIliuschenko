@@ -41,17 +41,17 @@ DevOps enthusiast with experience in infrastructure monitoring, Zabbix administr
 🔹 DevOps Learning
 
 Notes and commands I learn every day
-👉 https://github.com/YOUR_USERNAME/devops-learning
+👉 https://github.com/AntonIliuschenko/devops-learning
 
 🔹 DevOps Labs
 
 Hands-on labs and scripts
-👉 https://github.com/YOUR_USERNAME/devops-labs
+👉 https://github.com/AntonIliuschenko/devops-labs
 
 🔹 Linux Scripts
 
 Automation scripts
-👉 https://github.com/YOUR_USERNAME/linux-scripts
+👉 https://github.com/AntonIliuschenko/linux-scripts
 
 ## 🛠 Tools
 
